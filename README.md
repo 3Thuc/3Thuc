@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Thuctt 👋
+# Hi, I'm ThucTran 👋
 
 💻 Fresher Software Engineer  
 🌱 Full-Stack Development & AI/ML Learner  
